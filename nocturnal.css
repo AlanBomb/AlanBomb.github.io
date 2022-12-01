@@ -214,7 +214,7 @@
 	background:var(--backgroundColor01)!important
 }
 #app-mount .anchor-1MIwyf,#app-mount .executedCommand-14-SNW .commandName-1KhvGm,#app-mount .markup-eYLPri a{
-	color:#ffffff!important
+	color:#0000ff!important
 }
 #app-mount .lookLink-15mFoz.colorBrand-I6CyqQ{
 	color:var(--mainColor)!important
@@ -447,7 +447,7 @@
 }
 #app-mount .wrapper-1ZcZW-{
 	background-color:var(--gradientColor02);
-	//color:var(--gradientColor01);
+	color:var(--gradientColor01);
 	text-shadow:0 1px rgba(0,0,0,.7)
 }
 #app-mount .colorDefault-CDqZdO:active:not(.hideInteraction-2jPGL_),#app-mount .menu-1QACrS{
