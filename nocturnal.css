@@ -373,6 +373,22 @@
     padding: 0;
 }
 
+#app-mount .repliedMessage-3Z6XBG{
+    background-color: rgba(255,255,255,.01)!important;
+    padding-left: 3px;
+    border-radius: 6px;
+    margin-right: 0;
+}
+
+#app-mount .repliedTextPreview-1bvxun{
+    background-color: rgba(255,255,255,.2)!important;
+    position: relative;
+    padding-left: 3px;
+    padding-right: 5px;
+    padding-bottom: 2px;
+    border-radius: 0 6px 6px 0;
+}
+
 #app-mount .selected-1-Z6gm .activity-2EQDZv{
 	color:rgba(255,255,255,.9)!important
 }
