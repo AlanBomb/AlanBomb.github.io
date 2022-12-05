@@ -50,12 +50,12 @@
 }
 
 #app-mount .dot-SviNJC{
-	background-color: rgba(255,255,255,0);
+	background-color: rgba(255,255,255,0)!important;
     display:none!important;
 }
 
 #app-mount .maskSecondary-2YQ6k5{
-	border: 0px solid;
+	border: 0px solid!important;
 }
 
 #app-mount .bd-button:not(.bd-button-danger):hover,#app-mount .lookFilled-yCfaCM.colorBrand-21Le_q:hover,#app-mount .lookFilled-yCfaCM.colorGreen-3y-Z79:hover,#app-mount .lookFilled-yCfaCM.colorGrey-2iAG-B:hover,#app-mount .lookFilled-yCfaCM.colorPrimary-1arORx:hover,#app-mount .lookInverted-2mDUMi.colorBrand-21Le_q:hover{
